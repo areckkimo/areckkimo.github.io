@@ -1,0 +1,18 @@
+{
+  "store": {
+    "id": "store_001",
+    "name": "Bella Italia",
+    "address": "123 Main Street, Springfield, USA",
+    "opening_hours": "Mon–Fri 9:00 AM – 10:00 PM, Sat–Sun 10:00 AM – 11:00 PM",
+    "cuisine": "Italian",
+    "serves": ["Vegetarian", "Vegan", "Gluten-Free"],
+    "price_range": "$$ – Moderate",
+    "description": "A cozy Italian restaurant serving authentic pizzas and pasta made with fresh ingredients.",
+    "map": {
+      "latitude": 37.7749,
+      "longitude": -122.4194,
+      "provider": "Apple Maps"
+    },
+    "picture_url": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?auto=format&fit=crop&w=900&q=80"
+  }
+}
