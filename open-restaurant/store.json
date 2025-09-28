@@ -1,0 +1,18 @@
+{
+  "store": {
+    "id": "store_000",
+    "name": "Open Restaurant",
+    "address": "789 Sakura Street, Kyoto, Japan",
+    "opening_hours": "Mon–Fri 11:00 AM – 10:00 PM, Sat–Sun 11:00 AM – 11:00 PM",
+    "cuisine": "Japanese",
+    "serves": ["Sushi", "Ramen", "Tempura", "Vegetarian Options"],
+    "price_range": "$$ – Moderate",
+    "description": "A modern Japanese dining experience featuring fresh sushi, handcrafted ramen, and traditional izakaya-style small plates in a relaxed atmosphere.",
+    "map": {
+      "latitude": 35.0116,
+      "longitude": 135.7681,
+      "provider": "Apple Maps"
+    },
+    "picture_url": "https://images.unsplash.com/photo-1558382933-44228e03293c?q=80&w=1633&auto=format&fit=crop"
+  }
+}

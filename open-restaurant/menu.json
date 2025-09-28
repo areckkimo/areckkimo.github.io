@@ -1,0 +1,32 @@
+{
+  "menu": [
+    {
+      "id": "item_201",
+      "name": "Salmon Nigiri",
+      "price": 5.50,
+      "rating": 4.8,
+      "image_url": "https://images.unsplash.com/photo-1700705727167-9f230f3639b9?q=80&w=1547&auto=format&fit=crop"
+    },
+    {
+      "id": "item_202",
+      "name": "Tonkotsu Ramen",
+      "price": 12.00,
+      "rating": 4.7,
+      "image_url": "https://images.unsplash.com/photo-1635379511574-bc167ca085c8?q=80&w=1478&auto=format&fit=crop"
+    },
+    {
+      "id": "item_203",
+      "name": "Shrimp Tempura",
+      "price": 9.50,
+      "rating": 4.6,
+      "image_url": "https://images.unsplash.com/photo-1593357871477-00fd350cc0f8?q=80&w=1470&auto=format"
+    },
+    {
+      "id": "item_204",
+      "name": "Matcha Cheesecake",
+      "price": 6.00,
+      "rating": 4.9,
+      "image_url": "https://plus.unsplash.com/premium_photo-1694599324074-d5479407e7c7?q=80&w=1471&auto=format&fit=crop"
+    }
+  ]
+}

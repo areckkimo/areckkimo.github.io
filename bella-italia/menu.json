@@ -5,28 +5,28 @@
       "name": "Margherita Pizza",
       "price": 12.99,
       "rating": 4.6,
-      "image_url": "https://images.unsplash.com/photo-1601925261434-77c1e67e3b0c?auto=format&fit=crop&w=800&q=80"
+      "image_url": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?q=80&w=1469&auto=format&fit=crop"
     },
     {
       "id": "item_002",
       "name": "Spaghetti Carbonara",
       "price": 10.99,
       "rating": 4.4,
-      "image_url": "https://images.unsplash.com/photo-1525755662778-989d0524087e?auto=format&fit=crop&w=800&q=80"
+      "image_url": "https://images.unsplash.com/photo-1633337474564-1d9478ca4e2e?q=80&w=1471&auto=format&fit=crop"
     },
     {
       "id": "item_003",
       "name": "Four Cheese Lasagna",
       "price": 14.5,
       "rating": 4.7,
-      "image_url": "https://images.unsplash.com/photo-1528715471579-d1bcf0ba5e86?auto=format&fit=crop&w=800&q=80"
+      "image_url": "https://images.unsplash.com/photo-1713802611143-d14c927e2217?q=80&w=1470&auto=format&fit=crop"
     },
     {
       "id": "item_004",
       "name": "Pesto Gnocchi",
       "price": 11.75,
       "rating": 4.5,
-      "image_url": "https://images.unsplash.com/photo-1499636136210-6f4ee915583e?auto=format&fit=crop&w=800&q=80"
+      "image_url": "https://images.unsplash.com/photo-1628462626251-dc8abf27ece0?q=80&w=880&auto=format&fit=crop"
     }
   ]
 }
